@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahManish07
-- 👀 I’m interested in front end developer
-- 🌱 I’m currently learning js node
+- 👀 I’m interested in front end developement
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me email
 
